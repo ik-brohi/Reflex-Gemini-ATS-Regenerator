@@ -1,0 +1,7 @@
+
+reflex==0.8.15a1
+google-generativeai
+python-docx
+docx
+PyPDF2
+pillow
